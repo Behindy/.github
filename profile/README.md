@@ -3,6 +3,7 @@
 #### **커밋 컨벤션**
 
 ```
+✨ behindy-yymmdd : build 레포지토리 커밋
 ✨ feat: 기능 추가, 삭제, 변경
 🐛 fix: 버그, 오류 수정
 📝 docs: readme.md, json 파일 등 수정, 라이브러리 설치 (문서 관련, 코드 수정 없음)
