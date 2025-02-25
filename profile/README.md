@@ -2,7 +2,7 @@
 
 #### **ERD**
 
-![behindy](https://github.com/user-attachments/assets/5793300a-5cb2-45a6-b5d1-fb0ac9716477)
+![behindy](https://github.com/user-attachments/assets/996610e4-7a06-4015-9935-e472ed3315d0)
 
 #### **개발기간**
 
